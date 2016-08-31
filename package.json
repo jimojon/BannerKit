@@ -1,0 +1,22 @@
+{
+  "name": "banner-kit",
+  "version": "1.0.1",
+  "description": "A simple kit to build html animated banners width css only",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/jonasmonnier/BannerKit"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonas",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean-css": "^2.0.8",
+    "gulp-htmlmin": "^2.0.0",
+    "gulp-imagemin": "^3.0.3",
+    "imagemin-pngquant": "^5.0.0"
+  }
+}
